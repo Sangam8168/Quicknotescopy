@@ -1,0 +1,8 @@
+flask
+requests
+torch
+transformers
+nltk
+youtube-transcript-api
+PyPDF2
+gunicorn
